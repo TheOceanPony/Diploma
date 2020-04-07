@@ -1,3 +1,5 @@
+#Original template by https://github.com/char-lie/latex-dstu
+
 # LaTeX DSTU 3008-95
 DSTU 3008-95 TeXLive template with Dockerfile to create thesis
 
